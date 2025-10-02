@@ -17,7 +17,7 @@ hardware/oplus
 rm -rf "${mf[@]}"
  
 #Device tree
-git clone https://github.com/pjgowtham/android_device_realme_porsche.git -b exolution_16 device/realme/porsche
+git clone https://github.com/pjgowtham/android_device_realme_porsche.git -b lineage-23.0 device/realme/porsche
  
 #Common tree
 git clone https://github.com/MISTERXZONE/device_oneplus_sm8350-common -b lineage-23.0_dolby device/oneplus/sm8350-common
