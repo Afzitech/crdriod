@@ -36,5 +36,5 @@ git clone https://github.com/MISTERXZONE/android_kernel_oneplus_sm8350 -b lineag
  
 #Start Build
 . build/envsetup.sh
-breakfast porsche
-mka bacon
+brunch porsche
+
